@@ -1,5 +1,20 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: “Our results were excellent. As far as the sale of the house goes, we made an offer, they made a counter offer, we made another offer but we got the price we wanted. Which was lower than the price they asked, so we were very pleased with that. They also did a lot of checking on other villas in the area to see what they were going for and if it was worth it, and they walked through the house to check things out. It was a very good experience. It was very good to work with them for the first time. They live in Orlando and they traveled two hours up to this area and spent the night here showing me places, they didn’t just spend the one day they spent two days before I made up my mind, so that was fantastic. And they gave me all kind of options, I thought they went way out of their way on that. They just wanted me and my wife to be happy. They weren’t just about selling us a house, they were more about us being happy and that made me feel very comfortable.”
+    name: Tom
+    audio: /uploads/audio/Tom.mp3
+  - quote: “They sold our house so that was the end result we wanted. So, we got what we wanted! Matt had great communication with keeping me informed on what was going on with me being out of the state. We are very pleased with them and we plan to recommend them if any of our friends or family are wanting to sell!”
+    name: Dayna
+    audio: /uploads/audio/Dayna.mp3
+  - quote: "Well, Matt had to deal with a lot of impending issues with open permits and whatnot. He was able to mitigate all those issues and help get the property sold."
+    name: Farris
+    audio: /uploads/audio/Farris.mp3
+  - quote: “We have used Matt on multiple purchases. I am an investor in the Florida Area. He is proficient and works well, professional. I definitely will be working with him again in the future and probably will be listing a few of my own houses as well. I definitely recommend him to people.”
+    name: Brandon
+    audio: /uploads/audio/Brandon.mp3
+  - quote: “She’s my best friend! They’re easy and prompt and they know what they’re doing. It was actually Father’s Day when I saw on the MLS a listing that just came up and houses in our neighborhood go really quickly. I saw it and fell in love with it do I sent it to Jen and said, ‘Look at this one.’ She got me an appointment on Father’s Day to go see it before it completely, like, there was no sign in the yard or anything! So, I saw it on Father’s Day and I put an offer in it that day and that’s the house I bought. It was a holiday and she still showed it to me. She’s the one who pushed me and said, ‘We better do see it!’ They’re just wonderful.”
+    name: Karree
+    audio: /uploads/audio/Karree.mp3
+  - quote: "Everyone was very nice. From the front desk, the person I originally called, she was very nice. She got me in contact with someone very quickly. She asked for the necessary information and I got that to her. I asked if I could see the property that day. Obviously once I met Angel I knew he was great. Whenever I needed anything he would respond promptly. If he couldn’t spend time he would reply with a text letting me know he was with another client. So as far as his follow-up concern, he is exceptional and he was phenomenal."
+    name: John
+    audio: /uploads/audio/John.mp3

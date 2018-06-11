@@ -7,41 +7,43 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Matt & Jenna Freda
   title:
   license_number:
   about_markdown: |
+    Matt and Jenn Freda have a decade of experience in the real estate business, and are the leaders of a top-producing team in the Greater Orlando Area. In the past 3 years teamFREDA has sold over 500 homes! Their websites attract hundreds of thousands of views annually, and they have a database of over 9,000 buyers actively searching in the Greater Orlando Area.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    A normal real estate transaction has over 200 separate tasks that require a variety of skills. For the same price as working with a normal agent, working with Matt and Jenn ensures that you have a full team behind you, including buyer specialists, a marketing department, administrative assistants, and transaction coordinators, among others. With their team structure, technology, and systems in place, Matt and Jenn Freda have the experience and knowledge necessary to get your property sold for the most money in the least amount of time.
+  market: Orlando
+  brand: teamFREDA
+  brokerage: Powered by eXp Realty
+  address: 651 W. Warren Ave Longwood, FL 32750
+  phone: 407-513-4724
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@teamFREDAsells.com
+  url: http://teamFREDAsells.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.findorlandoareahouses.com/homevalue/Orlando
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.findorlandoareahouses.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.findorlandoareahouses.com/homevalue/Orlando
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.findorlandoareahouses.com/
 
 lender:
   show_section: false
@@ -57,17 +59,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/teamFREDA/?fref=ts
+  linkedin_url: https://www.linkedin.com/company/freda-realty-inc-?trk=cws-cpw-coname-0-0
+  gplus_url: http://plus.google.com/115804475176857276722
+  youtube_url: https://www.youtube.com/channel/UCR34kwpGnpy5s6brU9WHp7g
+  twitter_url: https://twitter.com/FredaRealty
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/teamFREDA/
+  trulia_url: https://www.trulia.com/profile/matthew-freda-agent-longwood-fl-zgqlnqtf/overview
+  yelp_url: https://www.yelp.com/biz/matthew-j-freda-real-estate-callicoon
+  podcast_url: https://itunes.apple.com/us/podcast/team-freda-greater-orlando-real-estate-podcast/id1039517219?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -87,8 +89,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#c49e31'
+  theme_color: '#202020'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
