@@ -45,7 +45,7 @@ second_sidebar_CTA:
     CTA_url2: http://www.findorlandoareahouses.com/
     
 third_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
+  - CTA_image_path2: /img/cta-images/006.jpg
     CTA_title2: "Join teamFREDA"
     CTA_text2: "Contact Us Today"
     CTA_link_text2: "Apply"
