@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: about
     url: http://www.teamfredasells.com/about-us/
+  - title: testimonials
+    url: http://teamfreda.blogspot.com/p/testimonials.html   
 client:
   name: Matt & Jenna Freda
   title:
