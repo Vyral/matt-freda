@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-43518142407216359
 blogger_orig_url: http://teamfreda.blogspot.com/2017/06/central-florida-midsummer-market-update.html
 ---
 {% include youtube.html %}
-
 The stats from the Florida Association of Realtors are hot off the presses so I wanted to give a quick update on the state of the market here.
 
 What's going on here in the Central Florida real estate market?
