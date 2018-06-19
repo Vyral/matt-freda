@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-70047391440762674
 blogger_orig_url: http://teamfreda.blogspot.com/2017/10/where-is-best-place-to-find-hud-homes.html
 ---
 {% include youtube.html %}
-
 If you’re thinking about selling your home, our 151-step marketing system can help you sell quickly and for top dollar.
 
 We can help you get your home sold quickly and for top dollar.
