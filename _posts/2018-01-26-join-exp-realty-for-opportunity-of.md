@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-66533854751946327
 blogger_orig_url: http://teamfreda.blogspot.com/2018/01/join-exp-realty-for-opportunity-of.html
 ---
 {% include youtube.html %}
-
 If you’re looking for a model that will promote your team’s growth, I truly recommend that you consider joining with eXp Realty. In the best way, you won’t see the industry the same way.
 
 I am so excited to announce that **we are moving from our independent brokerage model to eXp Realty,** and even more excited to be working once again with the National Association of Expert Advisors.
