@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-11941996709403956
 blogger_orig_url: http://teamfreda.blogspot.com/2017/11/learn-how-to-sell-and-close-homes-at.html
 ---
 {% include youtube.html %}
-
 We’re hosting an event this December that will teach you how to successfully close and sell HUD homes.
 
 You are officially invited to our upcoming Realtor HUD lunch-and-learn training session.
