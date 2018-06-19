@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-14201476079713691
 blogger_orig_url: http://teamfreda.blogspot.com/2018/03/a-helpful-guide-for-picking-real-estate.html
 ---
 {% include youtube.html %}
-
 Your home is your biggest financial investment. Whoever you hire to help sell it needs to be qualified for the job.
 
 In the state of Florida, anybody can get their real estate license within a week or two. All you need to do is take a three-day class and sit for a state exam.
