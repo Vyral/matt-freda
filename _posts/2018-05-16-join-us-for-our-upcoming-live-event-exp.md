@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-42332487019371250
 blogger_orig_url: http://teamfreda.blogspot.com/2018/05/join-us-for-our-upcoming-live-event-exp.html
 ---
 {% include youtube.html %}
-
 Your home is your biggest financial investment. Whoever you hire to help sell it needs to be qualified for the job.
 
 In the state of Florida, anybody can get their real estate license within a week or two. All you need to do is take a three-day class and sit for a state exam.
