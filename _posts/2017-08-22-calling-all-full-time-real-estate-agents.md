@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-41099040794826205
 blogger_orig_url: http://teamfreda.blogspot.com/2017/08/calling-all-full-time-real-estate-agents.html
 ---
 {% include youtube.html %}
-
 If you are a licensed, full-time real estate agent, we have a great opportunity for you to join our team.
 
 Our brokerage is generating so many leads these days that we need help!
