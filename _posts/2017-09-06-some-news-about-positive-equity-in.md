@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-11565476807501011
 blogger_orig_url: http://teamfreda.blogspot.com/2017/09/some-news-about-positive-equity-in.html
 ---
 {% include youtube.html %}
-
 Today we’ll be discussing positive equity. Let’s find out what percentage of homeowners have it, and how many have seen an increase in it since last year.
 
 What percentage of homes across the US have positive equity?
