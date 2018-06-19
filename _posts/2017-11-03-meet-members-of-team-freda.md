@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-52870986953867822
 blogger_orig_url: http://teamfreda.blogspot.com/2017/11/meet-members-of-team-freda.html
 ---
 {% include youtube.html %}
-
 Today we’ll be going on a quick tour around the office, introducing you to key members of teamFREDA.
 
 We’re here at our office in Longwood today, and we wanted to give you a quick tour to show you exactly how our team is structured.
