@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-11349969158424205
 blogger_orig_url: http://teamfreda.blogspot.com/2017/08/how-strategic-home-buying-consultation.html
 ---
 {% include youtube.html %}
-
 A strategic home buying consultation can make a big difference in your home search process.
 
 Have you ever wondered about strategic home buying consultations? What exactly are they, and why are they beneficial?
