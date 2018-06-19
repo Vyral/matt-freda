@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-4547626487451168026.post-96394280401656331
 blogger_orig_url: http://teamfreda.blogspot.com/2018/02/how-rising-interest-rates-impact-your.html
 ---
 {% include youtube.html %}
- 
 Rising interest rates may put buying a new home out of reach. I’ll explain why today.
 
 I recently came across an article about how mortgage interest rates are on the rise. I’ve read articles like this in the past, but this article was a little different.
