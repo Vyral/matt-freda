@@ -26,15 +26,15 @@ In Central Florida, **the median price is $234,000, which is a 7.3% increase fro
 
 When I do listing presentations, I do what is called an absorption analysis. This analysis tells us exactly how many properties are coming on and off the market. It also tells us what inventory levels are within a particular neighborhood.
 
-Some of these neighborhoods have less than a one month supply of properties, which means that there are more buyers in the market than there are sellers.
+Some of these neighborhoods have less than a one-month supply of properties, which means that there are more buyers in the market than there are sellers.
 
 **Sales of all kinds in May of 2018 were actually down 11.4%** from May of 2017. We can attribute this to a lack of inventory. There are not as many homes on the market this year as there were last May.
 
 {% include pullquote.html %}
 
-On the positive side, however, 96.5% of all the sales are traditional sales. A few years ago 40% to 50% of the sales were bank-owned or short sales (also considered distressed sales). Last month, only 2.8% of the sales were these type of distressed sales.
+On the positive side, however, 96.5% of all the sales are traditional sales. A few years ago, 40% to 50% of the sales were bank-owned or short sales (also considered distressed sales). Last month, only 2.8% of the sales were these type of distressed sales.
 
-**Inventory is about 14.8% lower than it was May of 2017** which equates to about a three month supply of properties.
+**Inventory is about 14.8% lower than it was May of 2017,** which equates to about a three-month supply of properties.
 
 Average days on market, meanwhile, is about 50. This means that when you list your home you will have about 50 days before it goes under contract.
 
