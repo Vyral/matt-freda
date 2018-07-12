@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Happening in Our Orlando Market?
-date: 2018-07-11 17:03:11
+date: 2018-07-11 17:03:00
 tags:
   - Market Update
 excerpt: The numbers for May are here for your Central Florida real estate market.
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/EdKiLo6WjXM'
+youtube_code: vlo4pabVQR0
 ---
 
 {% include youtube.html %}
@@ -41,5 +41,3 @@ Average days on market, meanwhile, is about 50. This means that when you list yo
 So what does all of this mean? It means that we are still technically in a seller’s market. However, if you are thinking about buying a home, do not let this discourage you. For all of those people who have been paying rent, interest rates are up slightly to 4.6% right now compared to 4% last year.
 
 There is a house for everyone. If you want help finding the house for you, please feel free to contact me by phone or email. I look forward to speaking with you soon.
-
-&nbsp;
