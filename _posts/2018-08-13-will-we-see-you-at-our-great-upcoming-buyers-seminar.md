@@ -21,4 +21,4 @@ We’ve got an exciting announcement to make today: You’re invited to our upco
 
 {% include pullquote.html %}
 
-During this seminar, we’ll go over the buying process from start to finish. We’ve also partnered with Movement Mortgage, who will explain the lending process and answer any financing questions you may have. You can reserve your place at this great event here, or by giving us a call at (407) 513-4724. To see our full message, watch this short video.
+During this seminar, we’ll go over the buying process from start to finish. We’ve also partnered with Movement Mortgage, who will explain the lending process and answer any financing questions you may have. You can reserve your place at this great event by emailing [info@teamFREDAsells.com](mailto:info@teamFREDAsells.com)&nbsp;or by giving us a call at (407) 513-4724. To see our full message, watch this short video.
