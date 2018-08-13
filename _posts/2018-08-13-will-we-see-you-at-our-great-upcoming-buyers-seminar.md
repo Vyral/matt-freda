@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Will you join us for our upcoming buyer seminar?
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Matt+%26+Jenn+Freda/Video/2018/August/Orlando+Real+Estate+Agent-+You%2527re+Invited%2521.mp4
+  https://s3.amazonaws.com/vyralmarketing/Matt+%26+Jenn+Freda/Video/2018/August/Orlando+Real+Estate+Agent-+You%2527re+Invited%2521+(1).mp4
 pullquote: Will you join us for our upcoming buyer seminar?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: MxuNNJ2mfsw
+youtube_code: 49QgmGcSi4M
 ---
 
 {% include youtube.html %}
@@ -22,5 +22,3 @@ We’ve got an exciting announcement to make today: You’re invited to our upco
 {% include pullquote.html %}
 
 During this seminar, we’ll go over the buying process from start to finish. We’ve also partnered with Movement Mortgage, who will explain the lending process answer any financing questions you may have. You can reserve your place at this great event here, or by giving us a call at (407) 513-4724. To see our full message, watch this short video.
-
-&nbsp;
