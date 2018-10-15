@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Reasons to Sell Your Home in the Fall
-date: 2018-10-15 04:27:00
+date: 2018-10-14 04:27:00
 tags:
   - Home Seller Tips
 excerpt: >-
