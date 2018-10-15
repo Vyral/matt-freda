@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Reasons to Sell Your Home in the Fall
-date: 2018-10-15 16:27:48
+date: 2018-10-15 04:27:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -28,5 +28,3 @@ There are five reasons you should consider selling your home this fall:
 5. **It’s time to move on with your life.**
 
 If you have any questions about how to proceed with selling your home, feel free to reach out to me and my team. Let’s get together to discuss your options.
-
-&nbsp;
