@@ -28,9 +28,7 @@ youtube_code: eKurhjSEFNM
 
 4. The supply of listings increases substantially after the holidays.
 
-5. The desire to own a home doesn’t stop when the holidays come.
-
-If you’d like to list your home right now, give us a call so we can talk about how to market your home this holiday season.
+5. The desire to own a home doesn’t stop when the holidays come.<br><br>If you’d like to list your home right now, give us a call so we can talk about how to market your home this holiday season.
 
 If you’re thinking of buying a home or you have any other questions about our market, feel free to reach out to us as well. We’d love to help you.
 
