@@ -17,4 +17,4 @@ youtube_code: 9WN75S5MyfM
 
 {% include youtube.html %}
 
-Did you know that 33% of all renters in the U.S. plan to buy a home in the next two years? It’s true, and there are three reasons why. First, **68% say it provides more freedom.** Second, **58% say it fulfills the American dream.** Lastly, **74% say it’s the best long-term investment.** If you’re in agreement with these sentiments and you count yourself as a renter who wants to buy soon, we can help you achieve your goal. Just give us a call or send us an email and we’d love to get started.
+Did you know that 33% of all renters in the U.S. plan to buy a home in the next two years? It’s true, and there are three reasons why. First, **68% say it provides more freedom.** Second, **58% say it fulfills the American Dream.** Lastly, **74% say it’s the best long-term investment.** If you agree with these sentiments and are a renter who wants to buy soon, we can help you achieve your goal. Just give us a call or send us an email and we’d love to get started.
