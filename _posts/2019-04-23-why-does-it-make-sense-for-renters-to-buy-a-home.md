@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Does It Make Sense for Renters to Buy a Home?
-date: 2019-04-23 15:54:24
+date: 2019-04-23 15:54:00
 tags:
   - Home Buyer Tips
 excerpt: 'A third of all renters in the U.S. plan on buying a home soon, and here’s why.'
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 9WN75S5MyfM
+youtube_code: FtQwIMcnV8Q
 ---
 
 {% include youtube.html %}
